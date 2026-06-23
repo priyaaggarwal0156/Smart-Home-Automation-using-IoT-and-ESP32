@@ -2,20 +2,19 @@
 This repository consist of code for Smart Home Automation using IoT and ESP32 Project.
 /************************************************************
       SmartShield IoT Home Automation & Security System
-                    FINAL STABLE CODE
  ************************************************************/
 
-#define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_ID "TMPL31BUZIMu9"
 #define BLYNK_TEMPLATE_NAME "SmartShield"
-#define BLYNK_AUTH_TOKEN "YOUR_AUTH_TOKEN"
+#define BLYNK_AUTH_TOKEN "kG2E2N0OZbVo2TBeFbJQOX09QTXxTk_Y"
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
 /**************** WIFI DETAILS ****************/
 
-char ssid[] = "YOUR_WIFI_NAME";
-char pass[] = "YOUR_WIFI_PASSWORD";
+char ssid[] = "samsung";
+char pass[] = "9812345";
 
 /**************** PIN DEFINITIONS ****************/
 
